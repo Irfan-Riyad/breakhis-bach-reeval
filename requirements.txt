@@ -1,0 +1,13 @@
+# Tested on the Kaggle GPU Python image (2026), Python 3.11
+torch
+torchvision
+timm
+transformers
+scikit-learn
+scikit-image
+scipy
+numpy
+pandas
+matplotlib
+pillow
+kagglehub

@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Patient-level and cross-site re-evaluation of foundation-model classifiers for breast histopathology"
+authors:
+  - family-names: Hossain
+    given-names: Md Riyad
+    affiliation: "Department of Computer Science and Engineering, East West University, Dhaka, Bangladesh"
+year: 2026
+license: MIT
